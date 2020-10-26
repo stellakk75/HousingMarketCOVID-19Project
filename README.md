@@ -30,9 +30,6 @@ https://www.zillow.com/research/data/
 
 
 
-
-
-
 ### Origination of files
 Q1Analysis jupyter notebook 
 CsvFiles/sorted_population_final.csv
