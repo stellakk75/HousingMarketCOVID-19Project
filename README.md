@@ -33,51 +33,55 @@ https://www.zillow.com/research/data/
 
 
 
+### Origination of files
+Q1Analysis jupyter notebook 
+CsvFiles/sorted_population_final.csv
+CsvFiles/mostchangedpop18-19.csv
+CsvFiles/mostchangedpop19-20.csv
+CsvFiles/highest_growth18-20.csv
 
+CsvFiles/leastchangedpop18-19.csv
+CsvFiles/leastchangedpop19-20.csv
+CsvFiles/lowest_growth18-20.csv
 
-### Folders / Files with description 
-1. RawData (unchanged raw data)
-    - HomePriceFull.csv (Zillow)
-    - pop2019.csv (Census)
-    - pop2020.csv (Census)
-    - Rental_price.csv (Zillow)
-    
-2. CleanedData
-    - cleanup.ipynb (pulled 3 years of population, housing, and rental data into csv files below)
-    	- cleaned_population.csv 
-    	- cleaned_housing_rate.csv (all 3 years)  
-	- cleaned_housing2018.csv, cleaned_housing2019.csv, cleaned_housing2020.csv (separate by years)
-    	- cleaned_rental (pulled 2018-2020 rental information and only cities in common with population data)  
-        
-3. Q1Analysis.ipynb 
-    - calculate yearly average, change in rate per year, change in rate per period 2018-2020)
-    - pulled top 20 and bottom 20 based on the population rate and growth rate
-    - created bar graphs of the top cities 
-    - coding gmap heatmaps for population 2018-2020 with cities with positive rate comparison changes only- increase in demand cities )
+Output/Q1Population Increase in 2018-2019.png
+Output/Q1Population Rate Increase in 2019-2020.png
+Output/Q1Population Rate Decrease in 2018-2019.png
+Output/Q1Population Rate Decrease in 2019-2020.png
+Output/Q1Highest Demand Cities 2018-2020.png
+Output/Q1Lowest Demand Cities 2018-2020.png
 
-4. QuestionAnalysis 
-    -ChangingRates(Pop,Housing,Rental) (combined population, rental, housing data into one dataframe for common cities in all cleaned/analyzed data)(ChangingRates.csv)
-    - HousingAnalysis.ipynb
-        - calculate yearly average
-        - top and bottom 20 cities for each year 
-        - top 20 and bottom 20 cities for each year exported to csv files (Yearly Average of Top/Bottom 20 in 2018/2019/2020.csv)
-        - Calculated overall difference in period 2018-2020 (housing_rate.csv)
+Q2Analysis jupyter notebook 
+CsvFiles/housing_rate.csv
+CsvFiles/FinalTop20.csv
+CsvFiles/FinalBottom20.csv
 
-    - Q2_barchartcomparison.ipynb 
-	- Creates bar charts for housing rate 2018-2019 and 2019-2020 comparisons
-    - Q2_housing.ipynb (needs to be rebuilt)
-	- Create monthly trendlines for specific cities Atlanta, Boston, Vegas, NYC
-    - Q3_popvhousing.ipynb 
-	- Plots scatter plots comparing change in population vs change in housing rates and shows regression lines 
+Output/Q2BottomComparisonRates.png
+Output/Q2TopComparisonRates.png
 
-    - RentalAnalysis.ipynb
-        -calculate yearly average and changing rate from 2018-2020 (rental_rate.csv)
-    - Q4_rental.ipynb
-        - Plot monthly rent prices for Atlanta for 2019-2020, 2018-2020 
-        - Plot monthly rent prices for Boston for 2019-2020, 2018-2020 
-    - ChangingRates.csv
-    - housing_rate.csv
-    - rental_rate.csv 
+Output/Q2AtlantaOnlyTrend.png
+Output/Q2AtlantaVegasTrend.png
+Output/Q2BostonNYCTrend.png
 
-CsvFiles
-    - All files created from jupyter notebook 
+Q3Analysis jupyter notebook 
+Output/Q3topcorrelation2018-2019.png
+Output/Q3topcorrelation2019-2020.png
+Output/Q3bottomcorrelation2018-2019.png
+
+Output/Q3_80citiesPopvHousing2018-19.png
+Output/Q3_80citiesPopvRental2018-19.png
+Output/Q3_80citiesPopvHousing2019-20.png
+Output/Q3_80citiesPopvRental2019-20.png
+Output/Q3_78citiesPopvHousing2019-20.png
+
+Q4Analysis jupyter notebook 
+CsvFiles/rental_rate.csv
+
+Output/Q4AtlantaRentTrend.png
+Output/Q4AtlantaRentFullTrend.png
+Output/Q4BostonRentTrend.png
+Output/Q4BostonRentFullTrend.png
+
+ExtraAnalysis jupyter notebook 
+CsvFiles/ChangingRates.csv
+
