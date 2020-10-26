@@ -1,7 +1,41 @@
-# project-one
-Project Phase started for GT analytic boot camp
+# Impact of Population Change on Housing Price During COVID
 
-Folders --> Files
+### TEAM MEMBERS
+Stella Kim, Sarah H Lee, Pankaj Parashar, and Sydney Harkins
+
+
+
+### PROJECT DESCRIPTION & OUTLINE
+Analyze for correlation between population and housing changes during 2018-2020 (assume 2020 is reflective of COVID)  
+
+### QUESTIONS TO ANSWER:
+1. Which cities within the United States experienced population changes due to pandemic COVID?
+2. How has the rate of housing price changed between the two periods (2018-2019) and (2019-2020)?
+3. Is there a correlation between the population change rate and the housing market price rate?
+4. How has the rate of rental prices changed between the two periods in certain metropolitan areas?
+
+
+### DATASETS TO BE USED:
+* Population Dataset: https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html#ds  and https://worldpopulationreview.com/us-cities 
+* Housing and Rental Price Dataset:
+https://www.zillow.com/research/data/ 
+
+
+### ROUGH BREAKDOWN OF TASKS:
+* Project plan (All)
+* Clean data/data analysis (Sarah/Stella)
+* Write Up/Analysis (Pankaj/Sydney)
+* Visualization/Charts (Sarah/Stella)
+* Presentation (Pankaj/Sydney)
+
+
+
+
+
+
+
+
+### Folders --> Files with description 
 1. RawData (unchanged raw data)
     - HomePriceFull.csv (Zillow)
     - pop2019.csv (Census)
