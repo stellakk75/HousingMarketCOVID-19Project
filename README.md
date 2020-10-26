@@ -31,54 +31,54 @@ https://www.zillow.com/research/data/
 
 
 ### Origination of files
-Q1Analysis jupyter notebook 
-CsvFiles/sorted_population_final.csv
-CsvFiles/mostchangedpop18-19.csv
-CsvFiles/mostchangedpop19-20.csv
-CsvFiles/highest_growth18-20.csv
+**Q1Analysis jupyter notebook**
+* CsvFiles/sorted_population_final.csv
+* CsvFiles/mostchangedpop18-19.csv
+* CsvFiles/mostchangedpop19-20.csv
+* CsvFiles/highest_growth18-20.csv
 
-CsvFiles/leastchangedpop18-19.csv
-CsvFiles/leastchangedpop19-20.csv
-CsvFiles/lowest_growth18-20.csv
+* CsvFiles/leastchangedpop18-19.csv
+* CsvFiles/leastchangedpop19-20.csv
+* CsvFiles/lowest_growth18-20.csv
 
-Output/Q1Population Increase in 2018-2019.png
-Output/Q1Population Rate Increase in 2019-2020.png
-Output/Q1Population Rate Decrease in 2018-2019.png
-Output/Q1Population Rate Decrease in 2019-2020.png
-Output/Q1Highest Demand Cities 2018-2020.png
-Output/Q1Lowest Demand Cities 2018-2020.png
+* Output/Q1Population Increase in 2018-2019.png
+* Output/Q1Population Rate Increase in 2019-2020.png
+* Output/Q1Population Rate Decrease in 2018-2019.png
+* Output/Q1Population Rate Decrease in 2019-2020.png
+* Output/Q1Highest Demand Cities 2018-2020.png
+* Output/Q1Lowest Demand Cities 2018-2020.png
 
-Q2Analysis jupyter notebook 
-CsvFiles/housing_rate.csv
-CsvFiles/FinalTop20.csv
-CsvFiles/FinalBottom20.csv
+**Q2Analysis jupyter notebook**
+* CsvFiles/housing_rate.csv
+* CsvFiles/FinalTop20.csv
+* CsvFiles/FinalBottom20.csv
 
-Output/Q2BottomComparisonRates.png
-Output/Q2TopComparisonRates.png
+* Output/Q2BottomComparisonRates.png
+* Output/Q2TopComparisonRates.png
 
-Output/Q2AtlantaOnlyTrend.png
-Output/Q2AtlantaVegasTrend.png
-Output/Q2BostonNYCTrend.png
+* Output/Q2AtlantaOnlyTrend.png
+* Output/Q2AtlantaVegasTrend.png
+* Output/Q2BostonNYCTrend.png
 
-Q3Analysis jupyter notebook 
-Output/Q3topcorrelation2018-2019.png
-Output/Q3topcorrelation2019-2020.png
-Output/Q3bottomcorrelation2018-2019.png
+**Q3Analysis jupyter notebook**
+* Output/Q3topcorrelation2018-2019.png
+* Output/Q3topcorrelation2019-2020.png
+* Output/Q3bottomcorrelation2018-2019.png
 
-Output/Q3_80citiesPopvHousing2018-19.png
-Output/Q3_80citiesPopvRental2018-19.png
-Output/Q3_80citiesPopvHousing2019-20.png
-Output/Q3_80citiesPopvRental2019-20.png
-Output/Q3_78citiesPopvHousing2019-20.png
+* Output/Q3_80citiesPopvHousing2018-19.png
+* Output/Q3_80citiesPopvRental2018-19.png
+* Output/Q3_80citiesPopvHousing2019-20.png
+* Output/Q3_80citiesPopvRental2019-20.png
+* Output/Q3_78citiesPopvHousing2019-20.png
 
-Q4Analysis jupyter notebook 
-CsvFiles/rental_rate.csv
+**Q4Analysis jupyter notebook**
+* CsvFiles/rental_rate.csv
 
-Output/Q4AtlantaRentTrend.png
-Output/Q4AtlantaRentFullTrend.png
-Output/Q4BostonRentTrend.png
-Output/Q4BostonRentFullTrend.png
+* Output/Q4AtlantaRentTrend.png
+* Output/Q4AtlantaRentFullTrend.png
+* Output/Q4BostonRentTrend.png
+* Output/Q4BostonRentFullTrend.png
 
-ExtraAnalysis jupyter notebook 
-CsvFiles/ChangingRates.csv
+**ExtraAnalysis jupyter notebook**
+* CsvFiles/ChangingRates.csv
 
