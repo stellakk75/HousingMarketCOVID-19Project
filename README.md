@@ -1,4 +1,4 @@
-# Impact of Population Change on Housing Price During COVID
+# Impact of Population Change on Housing and Rental Price During COVID
 
 ### TEAM MEMBERS
 Stella Kim, Sarah H Lee, Pankaj Parashar, and Sydney Harkins
@@ -6,19 +6,21 @@ Stella Kim, Sarah H Lee, Pankaj Parashar, and Sydney Harkins
 
 
 ### PROJECT DESCRIPTION & OUTLINE
-Analyze for correlation between population and housing changes during 2018-2020 (assume 2020 is reflective of COVID)  
+* Analyze for correlation between population and housing changes during 2018-2020 (assume 2020 data is reflective of COVID) 
+* Evaluate rental trends during 2018-2020  
 
 ### QUESTIONS TO ANSWER:
 1. Which cities within the United States experienced population changes due to pandemic COVID?
 2. How has the rate of housing price changed between the two periods (2018-2019) and (2019-2020)?
 3. Is there a correlation between the population change rate and the housing market price rate?
-4. How has the rate of rental prices changed between the two periods in certain metropolitan areas?
+4. How has the rate of rental prices changed between the two periods in certain metropolitan areas due to COVID?
 
 
 ### DATASETS TO BE USED:
 * Population Dataset: https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html#ds  and https://worldpopulationreview.com/us-cities 
 * Housing and Rental Price Dataset:
 https://www.zillow.com/research/data/ 
+* Google API Request from Gmaps (for heatmap)
 
 
 ### ROUGH BREAKDOWN OF TASKS:
