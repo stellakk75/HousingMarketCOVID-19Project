@@ -1,5 +1,7 @@
 # Impact of Population Change on Housing and Rental Price During COVID
 
+Google Powerpoint Link: https://docs.google.com/presentation/d/1bVU_EyVkZyuDTaaOptpHWFUWhpi9ccJ8hJow3_O0fFg/edit?ts=5f94422a#slide=id.g9f8ef35117_1_270
+
 ### TEAM MEMBERS
 Stella Kim, Sarah H Lee, Pankaj Parashar, and Sydney Harkins
 
