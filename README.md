@@ -6,7 +6,7 @@ Powerpoint Presentation Link: https://docs.google.com/presentation/d/1bVU_EyVkZy
 * Analyze for correlation between population and housing changes during 2018-2020 (assume 2020 data is reflective of COVID-19) 
 * Evaluate rental trends during 2018-2020  
 
-### QUESTIONS TO ANSWER:
+### ANALYSIS:
 1. Which cities within the United States experienced population changes due to pandemic COVID-19? </br>
 ![image](https://user-images.githubusercontent.com/70276685/111051673-f9d25e00-8422-11eb-9a71-0d04a1080f25.png)
 
